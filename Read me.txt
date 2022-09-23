@@ -4,4 +4,4 @@ This project has 2 attached sample datasets :
 - sales.csv: records of product's sales in Sep 2018
 
 I will use data wrangling tools to calculate the total revenue of each product at each price. 
-The solution must be applicable to similar datasets with large numbers of records.
+The solution will be applicable to similar datasets with large numbers of records.
